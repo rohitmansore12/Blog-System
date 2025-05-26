@@ -1,2 +1,2 @@
-# Blog-System
+node_modules/
 
